@@ -38,7 +38,7 @@ Upgrades Performed:
   <tr>
     <td class="tg-za14">Revo CR Hotend</td>
     <td class="tg-za14">Easier replacement of nozzles</td>
-    <td class="tg-za14">![Revo&nbsp;&nbsp;&nbsp;CR](http://cdn.shopify.com/s/files/1/0259/1948/8059/products/CrealityW4.jpg?v=1661423612)</td>
+    <td class="tg-za14"><img src = "http://cdn.shopify.com/s/files/1/0259/1948/8059/products/CrealityW4.jpg?v=1661423612"></img></td>
   </tr>
   <tr>
     <td class="tg-pb0m" rowspan="2">SKR Mini e3 v2</td>

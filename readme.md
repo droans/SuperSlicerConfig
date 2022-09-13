@@ -50,3 +50,5 @@ Upgrades Performed:
   </tr>
 </tbody>
 </table>
+
+![Micro Swiss&nbsp;&nbsp;&nbsp;DD](https://cdn.shopify.com/s/files/1/1210/0176/products/Micro_Swiss_Extruder_without_Hotend_ddd04169-d9db-4caf-ba8b-dd61008cb678_543x543.png)

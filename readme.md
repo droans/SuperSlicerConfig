@@ -27,7 +27,7 @@ Upgrades Performed:
   <tr>
     <td class="tg-pb0m" rowspan="3">MicroSwiss Direct&nbsp;&nbsp;&nbsp;Drive</td>
     <td class="tg-za14">Improves retraction</td>
-    <td class="tg-pb0m" rowspan="3">![Micro Swiss&nbsp;&nbsp;&nbsp;DD](https://cdn.shopify.com/s/files/1/1210/0176/products/Micro_Swiss_Extruder_without_Hotend_ddd04169-d9db-4caf-ba8b-dd61008cb678_543x543.png)</td>
+    <td class="tg-pb0m" rowspan="3"><img src = "https://cdn.shopify.com/s/files/1/1210/0176/products/Micro_Swiss_Extruder_without_Hotend_ddd04169-d9db-4caf-ba8b-dd61008cb678_543x543.png"></img></td>
   </tr>
   <tr>
     <td class="tg-za14">Improves material flow accuracy</td>
@@ -43,12 +43,10 @@ Upgrades Performed:
   <tr>
     <td class="tg-pb0m" rowspan="2">SKR Mini e3 v2</td>
     <td class="tg-za14">Dual Z ports</td>
-    <td class="tg-pb0m" rowspan="2">![SKR Mini e3&nbsp;&nbsp;&nbsp;V2](https://cdn.shopify.com/s/files/1/1834/5761/products/1_d07c3870-517b-422f-9e41-eb7154141cb1_600x600_crop_center.jpg?v=1639513349)</td>
+    <td class="tg-pb0m" rowspan="2"><img src = "https://cdn.shopify.com/s/files/1/1834/5761/products/1_d07c3870-517b-422f-9e41-eb7154141cb1_600x600_crop_center.jpg?v=1639513349></img></td>
   </tr>
   <tr>
     <td class="tg-za14">LED, more ports</td>
   </tr>
 </tbody>
 </table>
-
-![Micro Swiss&nbsp;&nbsp;&nbsp;DD](https://cdn.shopify.com/s/files/1/1210/0176/products/Micro_Swiss_Extruder_without_Hotend_ddd04169-d9db-4caf-ba8b-dd61008cb678_543x543.png)

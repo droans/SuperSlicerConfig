@@ -43,7 +43,7 @@ Upgrades Performed:
   <tr>
     <td class="tg-pb0m" rowspan="2">SKR Mini e3 v2</td>
     <td class="tg-za14">Dual Z ports</td>
-    <td class="tg-pb0m" rowspan="2"><img src = "https://cdn.shopify.com/s/files/1/1834/5761/products/1_d07c3870-517b-422f-9e41-eb7154141cb1_600x600_crop_center.jpg?v=1639513349></img></td>
+    <td class="tg-pb0m" rowspan="2"><img src = "https://cdn.shopify.com/s/files/1/1834/5761/products/1_d07c3870-517b-422f-9e41-eb7154141cb1_600x600_crop_center.jpg?v=1639513349"></img></td>
   </tr>
   <tr>
     <td class="tg-za14">LED, more ports</td>
